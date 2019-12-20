@@ -1,10 +1,10 @@
 # golang-channels
 golang multiple channels example usage compared with for loop
 
-#usage:
+# usage:
 go test -bench=.
 
-#output:
+# output:
 goos: windows
 goarch: amd64
 BenchmarkGoParalel-4       20000            267850 ns/op
